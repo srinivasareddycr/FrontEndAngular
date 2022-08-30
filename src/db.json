@@ -1,0 +1,10 @@
+{
+    "users": [
+        {
+            "firstName":"Sreeni",
+            "lastName":"Ravindra",
+            "age" :"25",
+            "id":1
+        }
+    ]
+}
